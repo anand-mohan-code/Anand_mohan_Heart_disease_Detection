@@ -1,4 +1,4 @@
-## Anand Mohan Hear Disease Detection
+## Anand Mohan Heart Disease Detection
 
 # Heart Disease Detection
 A deep learning binary classification model built with Keras and trained on 12 input features.  
