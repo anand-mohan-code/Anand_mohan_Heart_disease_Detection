@@ -1,6 +1,6 @@
-# Anand_mohan_Heart_disease_Detection
+## Anand Mohan Hear Disease Detection
 
-# heart-disease-detection
+# Heart Disease Detection
 A deep learning binary classification model built with Keras and trained on 12 input features.  
 The model predicts a binary outcome (e.g., presence or absence of a condition) from basic health indicators.
 
